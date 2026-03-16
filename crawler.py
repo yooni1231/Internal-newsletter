@@ -20,8 +20,8 @@ import re
 #  인증키 설정
 
 # ─────────────────────────────────────────────────────────────
-NAVER_CLIENT_ID     = "qrjhv6MJOINvMhwI3srK"       
-NAVER_CLIENT_SECRET = "Qef03RNTyy" 
+NAVER_CLIENT_ID     = "#"       
+NAVER_CLIENT_SECRET = "#" 
 
 # ─────────────────────────────────────────────────────────────
 #  카테고리별 한국어 키워드 (네이버 뉴스 API)
