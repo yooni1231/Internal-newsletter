@@ -135,5 +135,5 @@ NAVER_CLIENT_SECRET = "your_client_secret"
 
 ## 📧 문의
 
-**Zivid Korea FAE Team**  
+**Zivid Korea Team**  
 yunseo.lee@zivid.com
