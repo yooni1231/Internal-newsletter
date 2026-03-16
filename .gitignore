@@ -1,0 +1,8 @@
+./env
+*.json
+mailer_preview.html
+__pycache__/
+*.md
+*.bat
+*.ai
+*.txt
