@@ -53,7 +53,6 @@ python mailer.py --dry-run
 ### 일괄 실행 (run.bat)
 
 ```bat
-cd /d C:\valentine\newsletter\automation
 python crawler.py
 python mailer.py
 ```
