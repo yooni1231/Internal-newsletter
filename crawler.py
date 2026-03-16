@@ -74,11 +74,7 @@ NAVER_QUERIES = {
         "디팔레타이징 자동화",
     ],
     "경쟁사동향": [
-        "Photoneo 3D 비전",
-        "Mech-Mind 메크마인드",
-        "3D 카메라 신제품 출시",
-        "산업용 3D 비전 시장 동향",
-        "SICK 3D 비전 센서",
+       
     ],
 }
 
@@ -98,11 +94,8 @@ GOOGLE_NEWS_QUERIES = {
         "robot vision system industrial",
     ],
     "EN_Competitors": [
-        "Zivid 3D camera",
-        "Photoneo 3D vision",
-        "Mech-Mind vision robot",
-        "Ensenso 3D camera",
-        "SICK 3D vision sensor new",
+        "Zivid 3D camera"
+
     ],
     "EN_Applications": [
         "welding automation 3D vision",
